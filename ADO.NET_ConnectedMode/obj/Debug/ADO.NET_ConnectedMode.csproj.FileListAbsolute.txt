@@ -1,0 +1,10 @@
+F:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_ADO.NET_ConnectedMode\ADO.NET_ConnectedMode\ADO.NET_ConnectedMode\bin\Debug\ADO.NET_ConnectedMode.exe.config
+F:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_ADO.NET_ConnectedMode\ADO.NET_ConnectedMode\ADO.NET_ConnectedMode\bin\Debug\ADO.NET_ConnectedMode.exe
+F:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_ADO.NET_ConnectedMode\ADO.NET_ConnectedMode\ADO.NET_ConnectedMode\bin\Debug\ADO.NET_ConnectedMode.pdb
+F:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_ADO.NET_ConnectedMode\ADO.NET_ConnectedMode\ADO.NET_ConnectedMode\obj\Debug\ADO.NET_ConnectedMode.csprojAssemblyReference.cache
+F:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_ADO.NET_ConnectedMode\ADO.NET_ConnectedMode\ADO.NET_ConnectedMode\obj\Debug\ADO.NET_ConnectedMode.Form1.resources
+F:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_ADO.NET_ConnectedMode\ADO.NET_ConnectedMode\ADO.NET_ConnectedMode\obj\Debug\ADO.NET_ConnectedMode.Properties.Resources.resources
+F:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_ADO.NET_ConnectedMode\ADO.NET_ConnectedMode\ADO.NET_ConnectedMode\obj\Debug\ADO.NET_ConnectedMode.csproj.GenerateResource.cache
+F:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_ADO.NET_ConnectedMode\ADO.NET_ConnectedMode\ADO.NET_ConnectedMode\obj\Debug\ADO.NET_ConnectedMode.csproj.CoreCompileInputs.cache
+F:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_ADO.NET_ConnectedMode\ADO.NET_ConnectedMode\ADO.NET_ConnectedMode\obj\Debug\ADO.NET_ConnectedMode.exe
+F:\YURKO\SHAG\Project C#\12_27062021_Lab_WindowsForm (основи розробки додатків)_ADO.NET\Homework_ADO.NET_ConnectedMode\ADO.NET_ConnectedMode\ADO.NET_ConnectedMode\obj\Debug\ADO.NET_ConnectedMode.pdb
